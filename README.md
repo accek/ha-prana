@@ -1,3 +1,5 @@
+# **Kotik jest super!**
+
 # ha-prana
 Prana recuperators (fan) for Home Assistant over bluetooth
 
